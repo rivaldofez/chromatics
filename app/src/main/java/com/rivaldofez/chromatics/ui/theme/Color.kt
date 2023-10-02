@@ -1,4 +1,4 @@
-package com.rivaldofez.myapplication.ui.theme
+package com.rivaldofez.chromatics.ui.theme
 
 import androidx.compose.ui.graphics.Color
 

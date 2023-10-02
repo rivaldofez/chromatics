@@ -1,4 +1,4 @@
-package com.rivaldofez.myapplication
+package com.rivaldofez.chromatics
 
 import org.junit.Test
 

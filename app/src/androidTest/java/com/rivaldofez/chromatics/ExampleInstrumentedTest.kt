@@ -1,4 +1,4 @@
-package com.rivaldofez.myapplication
+package com.rivaldofez.chromatics
 
 import androidx.test.platform.app.InstrumentationRegistry
 import androidx.test.ext.junit.runners.AndroidJUnit4

@@ -6,11 +6,11 @@ plugins {
 }
 
 android {
-    namespace 'com.rivaldofez.myapplication'
+    namespace 'com.rivaldofez.chromatics'
     compileSdk 33
 
     defaultConfig {
-        applicationId "com.rivaldofez.myapplication"
+        applicationId "com.rivaldofez.chromatics"
         minSdk 24
         targetSdk 33
         versionCode 1
